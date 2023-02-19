@@ -16,6 +16,9 @@ Alarm to notify if the spend is over 10$
 ## SNS Topic To notify over Budget Spend
 ![Screen Shot 2023-02-18 at 11 20 28 PM](https://user-images.githubusercontent.com/118763170/219922081-49230db3-82e7-46c1-aaa6-8dff9c5e8ee4.png)
 
+## Admin User with MFA enabled
+![Screen Shot 2023-02-18 at 11 24 41 PM](https://user-images.githubusercontent.com/118763170/219922159-cb36e009-4221-451f-9efb-8e687b4325ce.png)
+
 ## Napkin Design
 
 ![Napkin_Design](https://user-images.githubusercontent.com/118763170/219902900-02fdfd7d-599b-4b88-866b-55fa81459c87.jpeg)
